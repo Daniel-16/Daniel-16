@@ -5,10 +5,10 @@ I am Daniel Oloruntoba and I am a Full stack Javascript developer living in Nige
 You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">LinkedIn</a> and also email me at <a href = "mailto: danieloloruntoba681@gmail.com">danieloloruntoba681@gmail.com</a>.
 
 <h2>What am I currently working on🔭</h2>
-I am currently working on a Journal web app that would give a user an opportunity of documenting their daily activities. This web app I'm currenlty working on is a full stack project that makes use of a database for user profile and Journals, authentication, cryptography for passwords and journals, JWT for web tokens and ReactJS for the front end.
+I am currently open to working with any open source projects. Currently working on an open source project owned by one of my friends.
 
 <h2>What am I learning?</h2>
-I am currently learning NextJS and I plan on learning Artificial Intelligence and Cloud Computing.
+I am currently learning NextJS and I plan on learning Typescript, WebSockets very soon. I also plan on learning Artificial Intelligence and Cloud Computing in the nearest future.
 
 <h2>Interests💡</h2>
 I have great interests in the following technologies;
@@ -20,7 +20,7 @@ I have great interests in the following technologies;
 </ul>
 
 <h2>What I would collaborate on</h2>
-I would collaborate on any Javascript related projects.
+I would collaborate on any Javascript related open source projects as well as full stack web development projects.
 
 <h2>Current skills</h2>
 I am skilled in using the following web technologies;
@@ -32,15 +32,17 @@ I am skilled in using the following web technologies;
   <li>ReactJS</li>
   <li>MongoDB</li>
   <li>NodeJS</li>
+  <li>Mongoose</li>
   <li>Express JS</li>
   <li>REST API</li>
 </ul>
 
 <h2>Fun facts about me😁</h2>
 I come up with the craziest of ideas and implement them into something meaningful to people. I'm not sure if that's a fun fact🤔.
+Another fun fact about me is that I am always curious in learning about how to solve a problem using technology in order to understand technology even better.
 
 <h2>Extracurricular</h2>
-I am not just always on my laptop. I have a life outside and these are the things I do aside coding.
+I am not just always on my laptop. I have a life outside and these are the things I do aside from coding.
 <ul>
   <li>🏸Badminton</li>
   <li>⚽Soccer</li>
