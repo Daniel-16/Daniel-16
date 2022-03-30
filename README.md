@@ -8,7 +8,7 @@ You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">
 I am currently open to working with any open source projects. Currently working on an open source project owned by one of my friends.
 
 <h2>What am I learning?</h2>
-I am currently learning NextJS and I plan on learning Typescript, WebSockets very soon. I also plan on learning Artificial Intelligence and Cloud Computing in the nearest future.
+I am currently learning NextJS and I plan on learning Typescript and WebSockets very soon. I also plan on learning Artificial Intelligence and Cloud Computing in the nearest future.
 
 <h2>Interests💡</h2>
 I have great interests in the following technologies;
