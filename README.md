@@ -1,4 +1,5 @@
-<img src="https://i.pinimg.com/originals/2b/d6/fd/2bd6fd8ce97310c57a905ccb3d3e0999.jpg" height="400" width="900" alt="Image of my name">
+<!-- <img src="https://i.pinimg.com/originals/2b/d6/fd/2bd6fd8ce97310c57a905ccb3d3e0999.jpg" height="400" width="900" alt="Image of my name"> -->
+<h1 style="font-weight: bolder">Daniel</h1>
 <h2>Hi there! 👋</h2>
 
 I am Daniel Oloruntoba and I am a Full stack Javascript developer living in Nigeria.
