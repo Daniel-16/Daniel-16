@@ -13,8 +13,8 @@ You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">
 </a>
 <br />
 <!-- <h2>What am I currently working on🔭</h2> -->
-Hello! My name is Daniel and I am a fullstack developer from Nigeria and a Computer Science of Bingham University. I am a passionate developer and I'm always willing to learn new concepts in my field of programming and likewise.
-I also love to spread the knowledge I through teaching.
+Hello! My name is Daniel and I am a fullstack web developer from Nigeria majoring in computer science. I am a passionate developer and I'm always curious in learing about new technologies and how to convert the knowledge of such technologies into problem solving tools.
+<!-- I also love to spread the knowledge I through teaching. -->
 
 <!-- <h2>What am I learning?</h2>
 I am currently learning Tailwind CSS and I plan on learning NextJS and WebSockets very soon. I also plan on learning Artificial Intelligence and Cloud Computing in the nearest future. -->
