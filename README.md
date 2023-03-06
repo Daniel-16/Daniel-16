@@ -52,7 +52,7 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
       <a href="https://journal19.netlify.app">Journal</a>: A web application built to help keep your thoughts organized just like a physical journal.
     </li>
     <li>
-      <a href="https://jwww.planetbase.io">Planetbase</a>: A web application that connects event organizers to corporate sponsors.
+      <a href="https://www.planetbase.io">Planetbase</a>: A web application that connects event organizers to corporate sponsors.
     </li>
 </ul>
 </p>
