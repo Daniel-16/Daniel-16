@@ -12,7 +12,7 @@ You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
 </a>
 <!-- <h2>What am I currently working on🔭</h2> -->
-I'm a full stack web developer with experience in building web and mobile applications using a variety of technologies. I specialize in HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJS, MongoDB, Tailwind CSS, Bootstrap, and Flutter.
+I'm a full stack web developer with experience in building web and mobile applications using a variety of technologies. I specialize in HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJS, MongoDB, Firebase, Tailwind CSS, Bootstrap, and Flutter.
 <!-- I also love to spread the knowledge I through teaching. -->
 
 <!-- <h2>What am I learning?</h2>
