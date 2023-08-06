@@ -23,7 +23,7 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
     <li>Currently studying Computer Science at Bingham University.</li>
   </ul>
  </p>
-<h2>💼Work Experience</h2>
+<h2>💼 Work Experience</h2>
 <p>
   <ul>
     <li>Junior Web Developer at Blue Algorithim Technologies (1 year).</li>
