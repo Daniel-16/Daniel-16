@@ -10,24 +10,24 @@ You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">
 </a>
 <a href="https://www.instagram.com/danyel_t_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
-</a>
 <!-- <h2>What am I currently working on🔭</h2> -->
-I'm a full stack web developer with experience in building web and mobile applications using a variety of technologies. I specialize in HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJS, MongoDB, Firebase, Tailwind CSS, Bootstrap, and Flutter.
+### 🚀 Welcome to my digital realm of innovation and code wizardry!
+Crafting digital dreams at the crossroads of design and code. I'm a Full Stack Developer weaving wonders with HTML, CSS, and Tailwind for pixel-perfect interfaces. With React and Next.js, I conjure captivating front-end experiences, while Node.js and ExpressJS orchestrate server-side sorcery. MongoDB fuels data alchemy, and AWS provides the canvas for cloud enchantments. Flutter and React Native let me wield mobile magic. Let's turn imagination into innovation, one line of code at a time! 
 <!-- I also love to spread the knowledge I through teaching. -->
 
 <!-- <h2>What am I learning?</h2>
 I am currently learning Tailwind CSS and I plan on learning NextJS and WebSockets very soon. I also plan on learning Artificial Intelligence and Cloud Computing in the nearest future. -->
-<h2>📚 Education</h2>
+## 📚 Education
 <p>
   <ul>
     <li>Currently studying Computer Science at Bingham University.</li>
   </ul>
  </p>
-<h2>💼 Work Experience</h2>
+  <h2>💼 Work Experience</h2>
 <p>
   <ul>
-    <li>Junior Web Developer at Blue Algorithim Technologies (1 year).</li>
-    <li>Chief Technological Officer at a startup named Planetbase (1 year).</li>
+    <li>Web Developer at Blue Algorithim Technologies.</li>
+    <li>CTO/Backend Developer at Planetbase.</li>
   </ul>
  </p>
 <h2>🚀 Skills and Tech Stack</h2>
@@ -37,15 +37,16 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
     <li><b>Backend:</b> NodeJs, ExpressJS, MongoDB</li>
     <li><b>CSS Frameworks:</b> Tailwind CSS, Bootstrap</li>
     <li><b>Mobile Development:</b> Flutter and React Native</li>
+    <li><b>Cloud:</b> AWS, GCP</li>
 </ul>
 </p>
-<h2>🌐 REST APIs</h2>
+<!-- <h2>🌐 REST APIs</h2>
 <p>
   <ul>
     <li>Building REST APIs with NodeJs and ExpressJS</li>
 </ul>
-</p>
-<h2>💻 Projects</h2>
+</p> -->
+<!-- <h2>💻 Projects</h2>
 <p>
   <ul>
     <li>
@@ -55,8 +56,8 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
       <a href="https://www.planetbase.io">Planetbase</a>: A web application that connects event organizers to corporate sponsors.
     </li>
 </ul>
-</p>
-<h2>📫 Let's Connect</h2>
+</p> -->
+<h2>📫 Connect with me</h2>
 <p>
   <a href="https://www.linkedin.com/in/danieloloruntoba/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
