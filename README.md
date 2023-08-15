@@ -33,10 +33,10 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
 <h2>🚀 Skills and Tech Stack</h2>
 <p>
   <ul>
-    <li><b>Frontend:</b> HTML, CSS, JavaScript, ReactJs</li>
+    <li><b>Frontend:</b> HTML, CSS, JavaScript, ReactJS, NextJS</li>
     <li><b>Backend:</b> NodeJs, ExpressJS, MongoDB</li>
     <li><b>CSS Frameworks:</b> Tailwind CSS, Bootstrap</li>
-    <li><b>Mobile Development:</b> Flutter</li>
+    <li><b>Mobile Development:</b> Flutter and React Native</li>
 </ul>
 </p>
 <h2>🌐 REST APIs</h2>
