@@ -11,8 +11,9 @@ You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">
 <a href="https://www.instagram.com/danyel_t_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
 <!-- <h2>What am I currently working on🔭</h2> -->
-### 🚀 Welcome to my digital realm of innovation and code wizardry!
-Crafting digital dreams at the crossroads of design and code. I'm a Full Stack Developer weaving wonders with HTML, CSS, and Tailwind for pixel-perfect interfaces. With React and Next.js, I conjure captivating front-end experiences, while Node.js and ExpressJS orchestrate server-side sorcery. MongoDB fuels data alchemy, and AWS provides the canvas for cloud enchantments. Flutter and React Native let me wield mobile magic. Let's turn imagination into innovation, one line of code at a time! 
+## 🚀 Welcome to my digital realm of innovation and code wizardry!
+
+Crafting digital dreams at the crossroads of design and code. I'm a Full Stack Developer weaving wonders with HTML, CSS, and Tailwind for pixel-perfect interfaces. With React and Next.js, I conjure captivating front-end experiences, while Node.js and ExpressJS orchestrate server-side sorcery. MongoDB fuels data alchemy, and AWS provides the canvas for cloud enchantments. Flutter and React Native let me wield mobile magic. Let's turn imagination into innovation, one line of code at a time!
 <!-- I also love to spread the knowledge I through teaching. -->
 
 <!-- <h2>What am I learning?</h2>
