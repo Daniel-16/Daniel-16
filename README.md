@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Daniel Oloruntoba👋</h2>
+<h3>Hi there, I'm Daniel Oloruntoba👋</h3>
 
 <!-- I am Daniel Oloruntoba and I am a Full stack Javascript developer living in Nigeria.
 You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">LinkedIn</a> and also email me at <a href = "mailto: danieloloruntoba681@gmail.com">danieloloruntoba681@gmail.com</a>. -->
@@ -11,27 +11,21 @@ You can find me on <a href="https://www.linkedin.com/in/daniel-toba-35a0a01b4/">
 <a href="https://www.instagram.com/danyel_t_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
 <!-- <h2>What am I currently working on🔭</h2> -->
-## 🚀 Welcome to my digital realm of innovation and code wizardry!
+### 🚀 Welcome to my digital realm of innovation and code wizardry!
 
 Crafting digital dreams at the crossroads of design and code. I'm a Full Stack Developer weaving wonders with HTML, CSS, and Tailwind for pixel-perfect interfaces. With React and Next.js, I conjure captivating front-end experiences, while Node.js and ExpressJS orchestrate server-side sorcery. MongoDB fuels data alchemy, and AWS provides the canvas for cloud enchantments. Flutter and React Native let me wield mobile magic. Let's turn imagination into innovation, one line of code at a time!
 <!-- I also love to spread the knowledge I through teaching. -->
 
 <!-- <h2>What am I learning?</h2>
 I am currently learning Tailwind CSS and I plan on learning NextJS and WebSockets very soon. I also plan on learning Artificial Intelligence and Cloud Computing in the nearest future. -->
-## 📚 Education
+### 📚 Education
 <p>
   <ul>
     <li>Currently studying Computer Science at Bingham University.</li>
   </ul>
  </p>
-  <!-- <h2>💼 Work Experience</h2>
-<p>
-  <ul>
-    <li>Web Developer at Blue Algorithim Technologies.</li>
-    <li>CTO/Backend Developer at Planetbase.</li>
-  </ul>
- </p> -->
-<h2>🚀 Skills and Tech Stack</h2>
+ 
+### 🚀 Skills and Tech Stack
 <p>
   <ul>
     <li><b>Programming Languages:</b> JavaScript, Python, Dart</li>
@@ -59,7 +53,8 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
     </li>
 </ul>
 </p> -->
-<h2>📫 Connect with me</h2>
+
+### 📫 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/danieloloruntoba/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
