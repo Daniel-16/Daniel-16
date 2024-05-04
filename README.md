@@ -1,7 +1,7 @@
 <h3>Hi there, I'm Daniel Oloruntoba👋</h3>
 
 <!--
-Youhref="https://www.linkedin.com/in/daniel-35a0a01b4/">LinkedIn</a> and also email me at <a href = "mailto: danieloloruntoba681@gmail.com">danieloloruntoba681@gmail.com</a>. -->
+Youhref="s://www.linkedin.com/in/daniel-35a0a01b4/">LinkedIn</a> and also email me at <a href = "mailto: danieloloruntoba681@gmail.com">danieloloruntoba681@gmail.com</a>. -->
 <!-- <a href="https://www.linkedin.com/in/danieloloruntoba/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
