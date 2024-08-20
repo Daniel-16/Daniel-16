@@ -65,7 +65,6 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
 </p>
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-16&show_icons=true&theme=tokyonight)
-
 <!--
 **Daniel-16/Daniel-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
