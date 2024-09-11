@@ -36,7 +36,7 @@ I am currently learning Tailwind CSS and I plan on learning NextJS and WebSocket
     <li><b>Cloud:</b> AWS, GCP</li>
 </ul>
 </p>
-<!-- <h2>🌐 REST APIs</h2>
+<!-- <h2>🌐 REST AIs</h2>
 <p>
   <ul>
     <li>Building REST APIs with NodeJs and ExpressJS</li>
