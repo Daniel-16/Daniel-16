@@ -1,70 +1,30 @@
-<h3>Hi there, I'm Daniel Oloruntoba👋</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Daniel+Toba;Full+stack+developer)](https://git.io/typing-svg)
 
-<!--
-Y://w.link.com/in/daniel-35a0a01b4/">Lin</a> and also email met <a href = "mailto: danieloloruntoba681@gmail.com">danieloloruntoba681@gmail.com</a>. -->
-<!-- <a href="https://www.linkedin.com/in/danieloloruntoba/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/DanielToba19">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/danyel_t_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> -->
-<!-- <h2>What am I currently working on🔭</h2> -->
-### 🚀 Welcome to my digital realm of innovation and code wizardry!
+# Hi, I'm Daniel Toba 👋
 
-Crafting digital dreams at the crossroads of design and code. I'm a Full Stack Developer weaving wonders with HTML, CSS, and Tailwind for pixel-perfect interfaces. With React and Next.js, I conjure captivating front-end experiences, while Node.js and ExpressJS orchestrate server-side sorcery. MongoDB fuels data alchemy, and AWS provides the canvas for cloud enchantments. Flutter and React Native let me wield mobile magic. Let's turn imagination into innovation, one line of code at a time!
-<!-- I also love to spread the knowledge I through teaching. -->
+I'm a Full Stack Developer with a passion for crafting efficient, scalable, and impactful solutions. I thrive on learning new technologies and using them to create something meaningful.
 
-<!-- <h2>What am I learning?</h2>
-I am currently learning Tailwind CSS and I plan on learning NextJS and WebSockets very soon. I also plan on learning Artificial Intelligence and Cloud Computing in the nearest future. -->
-### 📚 Education
-<p>
-  <ul>
-    <li>Currently studying Computer Science at Bingham University.</li>
-  </ul>
- </p>
- 
-### 🚀 Skills and Tech Stack
-<p>
-  <ul>
-    <li><b>Programming Languages:</b> JavaScript, Python, Dart</li>
-    <li><b>Frontend:</b> HTML, CSS, JavaScript, ReactJS, NextJS</li>
-    <li><b>Backend:</b> NodeJs, ExpressJS, MongoDB</li>
-    <li><b>CSS Frameworks:</b> Tailwind CSS, Bootstrap</li>
-    <li><b>Mobile Development:</b> Flutter, React Native</li>
-    <li><b>Cloud:</b> AWS, GCP</li>
-</ul>
-</p>
-<!-- <h2>🌐 REST AIs</h2>
-<p>
-  <ul>
-    <li>Building REST APIs with NodeJs and ExpressJS</li>
-</ul>
-</p> -->
-<!-- <h2>💻 Projects</h2>
-<p>
-  <ul>
-    <li>
-      <a href="https://journal19.netlify.app">Journal</a>: A web application built to help keep your thoughts organized just like a physical journal.
-    </li>
-    <li>
-      <a href="https://www.planetbase.io">Planetbase</a>: A web application that connects event organizers to corporate sponsors.
-    </li>
-</ul>
-</p> -->
+# 🛠 Technologies I Use
 
-### 📫 Connect with me
-<p>
-  <a href="https://www.linkedin.com/in/danieloloruntoba/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-  <a href="https://twitter.com/danieltoba_">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-      </a>
-</p>
+- **Languages**: JavaScript, TypeScript, Dart, Python.
+- **Frontend**: React, Next.JS, Redux, HTML, CSS, Tailwind CSS, Bootstrap.
+- **Backend**: Node.JS, Express, Django, Flask, REST API, GraphQL, RabbitMQ.
+- **Databases**: MongoDB, PostgreSQL.
+- **Mobile Development**: Flutter, React Native.
+- **Tools**: AWS, Docker, Git, GCP, Prisma, Github Actions.
+
+# 🤝 Let's Collaborate!
+
+I'm always open to working on exciting projects, especially if they're focused on innovation and problem-solving. Whether you're building a startup or exploring a new idea, let's make something great together!
+
+Feel free to connect and discuss ideas.
+
+# 📫 How to reach me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-danieloloruntoba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/danieloloruntoba) [![Twitter Badge](https://img.shields.io/badge/@danieltoba__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danieltoba_)](https://twitter.com/danieltoba_) [![Instagram Badge](https://img.shields.io/badge/-@danieltoba__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/danieltoba_/)](https://www.instagram.com/danieltoba_/)
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-16&show_icons=true&theme=tokyonight)
+
 <!--
 **Daniel-16/Daniel-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
