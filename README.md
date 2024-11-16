@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel Toba 👋
 
-<!-- I'm a Full Stack Developer with a passion for crafting efficient, scalable, and impactful solutions. I thrive on learning new technologies and using them to create something meaningful. -->
+<!-- I'm a Full Stack Developer with a passion for crafting efficient, scalable, and impactful solutions. I thrivn learning new technologies and using them to create something meaningful. -->
 What I love doing? I love writing problem solving code so no, I am not gonna work on your cool todo app or calculator 😂.
 
 I really don't like working on trivial things as of this time 🙂 so I'd prefer working on challenging projects.
