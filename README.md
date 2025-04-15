@@ -5,12 +5,12 @@
 I build efficient, scalable solutions to complex problems. No trivial to-do apps or calculators—I'm here for the real challenges.
 
 ## 🛠 Tech Stack
-- **Languages**: JavaScript, TypeScript, Dart, Python  
-- **Frontend**: React, Next.js, Redux, Tailwind CSS  
-- **Backend**: Node.js, Express, Django, Flask, GraphQL  
+- **Languages**: JavaScript, TypeScript, Dart, Python, Solidity.  
+- **Frontend**: React, Next.js, Redux, Tailwind CSS.
+- **Backend**: Node.js, Express, GraphQL, RabbitMQ.
 - **Databases**: MongoDB, PostgreSQL  
 - **Mobile**: Flutter, React Native  
-- **Tools**: AWS, Docker, Git, GCP, Prisma  
+- **Tools**: AWS, Docker, Git, GCP, Prisma, TensorFlow, CI/CD.
 
 ## 🤝 Collaborate
 Got a tough problem or innovative idea? Let’s solve it. I thrive on impactful projects that push boundaries.
