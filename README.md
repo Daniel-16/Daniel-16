@@ -10,7 +10,7 @@ I build efficient, scalable solutions to complex problems. No trivial to-do apps
 - **Backend**: Node.js, Express, GraphQL, RabbitMQ.
 - **Databases**: MongoDB, PostgreSQL  
 - **Mobile**: Flutter, React Native  
-- **Tools**: AWS, Docker, Git, GCP, Prisma, TensorFlow, CI/CD.
+- **Tools**: AWS, Docker, Git, GCP, Prisma, TensorFlow, CI/CD. 
 
 ## 🤝 Collaborate
 Got a tough problem or innovative idea? Let’s solve it. I thrive on impactful projects that push boundaries.
