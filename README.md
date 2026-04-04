@@ -16,8 +16,9 @@ I build efficient, scalable solutions to complex problems. No trivial to-do apps
 Got a tough problem or innovative idea? Let’s solve it. I thrive on impactful projects that push boundaries.
 
 ## 📬 Connect
-[![LinkedIn](https://img.shields.io/badge/-danieloloruntoba-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieloloruntoba)  
-[![Twitter](https://img.shields.io/badge/@danieltoba__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/danieltoba_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieloloruntoba)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/danieltoba_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danieltoba_)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-16&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
