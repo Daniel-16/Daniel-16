@@ -19,4 +19,6 @@ Got a tough problem or innovative idea? Let’s solve it. I thrive on impactful 
 [![LinkedIn](https://img.shields.io/badge/-danieloloruntoba-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieloloruntoba)  
 [![Twitter](https://img.shields.io/badge/@danieltoba__-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/danieltoba_)  
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-16&show_icons=true&theme=tokyonight)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Daniel-16&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Daniel's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-16&show_icons=true&theme=tokyonight)](https://github.com/Daniel-16)
